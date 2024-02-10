@@ -1,8 +1,19 @@
-# React + Vite
+# Project description
+- To create a clone of a simple data analytics website 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Tech stacks used
 
-Currently, two official plugins are available:
+- Language - Javascript
+- Framework - React, Tailwind CSS
+- Tools - Vite
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Key take away from the projects 
+
+1. This website is fully responsive.
+2. Applying Vite + React framework to scaffhold the project and Tailwind CSS for styling. 
+
+This site is live and hosted on Netlify. You may visit the website [here](https://datalytics-web.netlify.app/)
+
+Thanks for reading until here, let me end with the quote from Martin Fowler,
+
+> Any fool can write code that a computer can understand. Good programmers write code that humans can understand. ― Martin Fowler
